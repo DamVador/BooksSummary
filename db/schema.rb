@@ -15,7 +15,6 @@ ActiveRecord::Schema.define(version: 2023_05_18_074935) do
   create_table "books", charset: "utf8mb4", collation: "utf8mb4_0900_ai_ci", force: :cascade do |t|
     t.text "title"
     t.string "author"
-    t.string "string"
     t.float "note"
     t.text "review"
     t.text "content"
