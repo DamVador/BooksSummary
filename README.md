@@ -1,24 +1,7 @@
-# README
+# BooksSummary
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+BooksSummary is an app made to keep informations of the books that a user have read.
 
-Things you may want to cover:
+He can add books to his book list and add relevant informations such as a note, an opinion, quotes etc ...
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+He can then easily remember what he thinks about a book and find back the content he wants to find in a short time.
