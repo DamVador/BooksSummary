@@ -1,6 +1,13 @@
 @import 'bootstrap/dist/css/bootstrap';
 
-html { 
+.container-home { 
+
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    left: 0;
+    top: 0;
+    
     background: url(https://images.theconversation.com/files/45159/original/rptgtpxd-1396254731.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
